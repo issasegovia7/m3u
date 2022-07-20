@@ -1,0 +1,31 @@
+#EXTM3U
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_Actual_Canal_Once.png" group-title="Entretenimiento", Canal Once
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Azteca_Trece_2016-3.png" group-title="Entretenimiento", Azteca Uno
+https://dai.google.com/linear/hls/pa/event/8FUmvMX3ShuQTgE3tEqxNg/stream/c927d146-6e37-4811-a080-8a6e2dfa480f:TUL/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" group-title="Entretenimiento", Azteca Siete
+https://dai.google.com/linear/hls/pa/event/YHoOj51dSKCvBQOBG2OvLQ/stream/821dee35-398b-4e33-ad2a-b6ae3f62925f:TUL/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="Entretenimiento", XHGC-TDT
+https://live.televisiongratishd.com/tvplus2022/2_.m3u8?token=qYSzt34jjPiQZzjuBv9jjg&expires=1612641666&ip=2806:104e:3:b582:1155:d1f:d96f:5622
+ 
+ 
+ 
+ 
+#EXTINF:-1, tvg-logo="http://ginformate.mx/info/wp-content/uploads/2018/06/MILENIO-723x405_c.jpg" group-title="Noticias", Milenio Tv
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1037358052553322496/wwU6hW0Z.jpg" group-title="Entretenimiento", Adn 40
+https://dai.google.com/linear/hls/pa/event/XZLLJIhJRNqz33DGp6NdkA/stream/68cb7044-aced-4019-8774-7943c541c383:TUL/master.m3u8
+ 
+ 
+ 
+ 
+#EXTINF:-1, tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/6c/af/72/6caf728d-5635-1bd4-37a4-233f1d1a78b1/AppIcon-1x_U007emarketing-85-220-5.png/246x0w.jpg" group-title="Música", Deejay Tv (Italia)
+https://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1, tvg-logo="https://toplatino.net/wp-content/uploads/2019/04/cropped-LogoTL-300-new-9.png" group-title="Música", TOP Latino 
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
